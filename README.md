@@ -12,7 +12,7 @@ Aurora is a specialized toolset designed for bioscience applications search usin
 ## 🔗 Repository Links
 
   * **Tap Repository:** [https://github.com/Quantal-Universe-Tools/homebrew-Aurora-BioSpace](https://github.com/Quantal-Labs/homebrew-Aurora-BioSpace)
-  * **Issues:** [Report a bug](https://github.com/Quantal-Labs/Aurora-BioSpace/issues)
+  * **Issues:** [Report a bug](https://github.com/Quantal-Universe/Aurora-BioSpace/issues)
 
 -----
 
@@ -29,13 +29,13 @@ Run the following commands in your terminal:
 brew update
 
 # Add the custom tap to Homebrew
-brew tap codemaster-ar/aurora
+brew tap Quantal-Universe-Tools/aurora
 
 # Trust the repository:
-brew trust quantal-labs/aurora-biospace 
+brew trust Quantal-Universe-Tools/aurora-biospace 
 
 # Install the bioscience package
-&& brew install aurora-bioscience
+&& brew install aurora-biospace
 ```
 
 -----

@@ -32,7 +32,7 @@ brew update
 brew tap codemaster-ar/aurora
 
 # Install the bioscience package
-brew install aurora-bioscience
+brew trust quantal-labs/aurora-biospace && brew install aurora-bioscience
 ```
 
 -----

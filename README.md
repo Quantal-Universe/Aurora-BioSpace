@@ -11,7 +11,7 @@ Aurora is a specialized toolset designed for bioscience applications search usin
 
 ## 🔗 Repository Links
 
-  * **Tap Repository:** [https://github.com/Quantal-Labs/homebrew-Aurora-BioSpace](https://github.com/Quantal-Labs/homebrew-Aurora-BioSpace)
+  * **Tap Repository:** [https://github.com/Quantal-Universe-Tools/homebrew-Aurora-BioSpace](https://github.com/Quantal-Labs/homebrew-Aurora-BioSpace)
   * **Issues:** [Report a bug](https://github.com/Quantal-Labs/Aurora-BioSpace/issues)
 
 -----

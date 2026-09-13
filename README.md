@@ -35,7 +35,7 @@ brew tap Quantal-Universe-Tools/aurora
 brew trust Quantal-Universe-Tools/aurora-biospace 
 
 # Install the bioscience package
-&& brew install aurora-biospace
+brew install aurora-biospace
 ```
 
 -----

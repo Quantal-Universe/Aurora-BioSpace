@@ -31,8 +31,11 @@ brew update
 # Add the custom tap to Homebrew
 brew tap codemaster-ar/aurora
 
+# Trust the repository:
+brew trust quantal-labs/aurora-biospace 
+
 # Install the bioscience package
-brew trust quantal-labs/aurora-biospace && brew install aurora-bioscience
+&& brew install aurora-bioscience
 ```
 
 -----

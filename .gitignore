@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.log.*
+*.log.bak
+proxy.log
+proxy.log.bak
+session.bin
+.DS_Store
